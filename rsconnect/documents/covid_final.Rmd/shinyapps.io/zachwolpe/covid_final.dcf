@@ -1,0 +1,12 @@
+name: covid_final
+title:
+username:
+account: zachwolpe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1992789
+bundleId: 2923282
+url: https://zachwolpe.shinyapps.io/covid_final/
+when: 1585152591.17303
+asMultiple: FALSE
+asStatic: FALSE

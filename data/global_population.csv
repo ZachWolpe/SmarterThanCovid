@@ -1,0 +1,243 @@
+rank,country,population,percent_of_population,pop_char,name
+1,China,1401855920,18.0%,1401.86m,China
+2,India,1360053900,17.5%,1360.05m,India
+3,United States,329488021,4.24%,329.49m,United States
+4,Indonesia,266911900,3.43%,266.91m,Indonesia
+5,Pakistan,219016520,2.82%,219.02m,Pakistan
+6,Brazil,211283757,2.72%,211.28m,Brazil
+7,Nigeria,206139587,2.65%,206.14m,Nigeria
+8,Bangladesh,168304408,2.17%,168.3m,Bangladesh
+9,Russia,146745098,1.89%,146.75m,Russia
+10,Mexico,126577691,1.63%,126.58m,Mexico
+11,Japan,126010000,1.62%,126.01m,Japan
+12,Philippines,108433682,1.39%,108.43m,Philippines
+13,Egypt,100150004,1.29%,100.15m,Egypt
+14,Ethiopia,98665000,1.27%,98.67m,Ethiopia
+15,Vietnam,96208984,1.24%,96.21m,Vietnam
+16,DR Congo,89561404,1.15%,89.56m,DR Congo
+17,Iran,83298325,1.07%,83.3m,Iran
+18,Turkey,83154997,1.07%,83.15m,Turkey
+19,Germany,83149300,1.07%,83.15m,Germany
+20,France,67069000,0.863%,67.07m,France
+21,Thailand,66483955,0.855%,66.48m,Thailand
+22,United Kingdom,66435600,0.855%,66.44m,United Kingdom
+23,Italy,60243406,0.775%,60.24m,Italy
+24,South Africa,58775022,0.756%,58.78m,South Africa
+25,Tanzania,55890747,0.719%,55.89m,Tanzania
+26,Myanmar,54339766,0.699%,54.34m,Myanmar
+27,South Korea,51780579,0.666%,51.78m,South Korea
+28,Colombia,49395678,0.635%,49.4m,Colombia
+29,Kenya,47564296,0.612%,47.56m,Kenya
+30,Spain,47100396,0.606%,47.1m,Spain
+31,Argentina,44938712,0.578%,44.94m,Argentina
+32,Algeria,43000000,0.553%,43m,Algeria
+33,Sudan,42361520,0.545%,42.36m,Sudan
+34,Ukraine,41902416,0.539%,41.9m,Ukraine
+35,Uganda,40299300,0.518%,40.3m,Uganda
+36,Iraq,39127900,0.503%,39.13m,Iraq
+37,Poland,38386000,0.494%,38.39m,Poland
+38,Canada,37965057,0.488%,37.97m,Canada
+39,Morocco,35845131,0.461%,35.85m,Morocco
+40,Saudi Arabia,34218169,0.440%,34.22m,Saudi Arabia
+41,Uzbekistan,34081430,0.438%,34.08m,Uzbekistan
+42,Malaysia,32725760,0.421%,32.73m,Malaysia
+43,Afghanistan,32225560,0.415%,32.23m,Afghanistan
+44,Venezuela,32219521,0.414%,32.22m,Venezuela
+45,Peru,32131400,0.413%,32.13m,Peru
+46,Angola,31127674,0.400%,31.13m,Angola
+47,Ghana,30280811,0.390%,30.28m,Ghana
+48,Mozambique,30066648,0.387%,30.07m,Mozambique
+49,Yemen,29825968,0.384%,29.83m,Yemen
+50,Nepal,29609623,0.381%,29.61m,Nepal
+51,Cameroon,26545864,0.342%,26.55m,Cameroon
+52,Ivory Coast,25823071,0.332%,25.82m,Ivory Coast
+53,Madagascar,25680342,0.330%,25.68m,Madagascar
+54,Australia,25652995,0.330%,25.65m,Australia
+55,North Korea,25450000,0.327%,25.45m,North Korea
+–,Taiwan,23604265,0.304%,23.6m,Taiwan
+56,Niger,22314743,0.287%,22.31m,Niger
+57,Sri Lanka,21803000,0.280%,21.8m,Sri Lanka
+58,Burkina Faso,20870060,0.268%,20.87m,Burkina Faso
+59,Mali,19973000,0.257%,19.97m,Mali
+60,Romania,19405156,0.250%,19.41m,Romania
+61,Malawi,19129952,0.246%,19.13m,Malawi
+62,Chile,19107216,0.246%,19.11m,Chile
+63,Kazakhstan,18667080,0.240%,18.67m,Kazakhstan
+64,Syria,17500657,0.225%,17.5m,Syria
+65,Ecuador,17448612,0.224%,17.45m,Ecuador
+66,Netherlands,17446831,0.224%,17.45m,Netherlands
+67,Zambia,17381168,0.224%,17.38m,Zambia
+68,Guatemala,16604026,0.214%,16.6m,Guatemala
+69,Senegal,16209125,0.209%,16.21m,Senegal
+70,Somalia,15893219,0.204%,15.89m,Somalia
+71,Chad,15692969,0.202%,15.69m,Chad
+72,Cambodia,15288489,0.197%,15.29m,Cambodia
+73,Zimbabwe,15159624,0.195%,15.16m,Zimbabwe
+74,South Sudan,12778250,0.164%,12.78m,South Sudan
+75,Rwanda,12374397,0.159%,12.37m,Rwanda
+76,Guinea,12218357,0.157%,12.22m,Guinea
+77,Benin,11733059,0.151%,11.73m,Benin
+78,Tunisia,11722038,0.151%,11.72m,Tunisia
+79,Haiti,11577779,0.149%,11.58m,Haiti
+80,Belgium,11524454,0.148%,11.52m,Belgium
+81,Bolivia,11469896,0.148%,11.47m,Bolivia
+82,Cuba,11209628,0.144%,11.21m,Cuba
+83,Burundi,10953317,0.141%,10.95m,Burundi
+84,Greece,10724599,0.138%,10.72m,Greece
+85,Czech Republic,10693939,0.138%,10.69m,Czech Republic
+86,Jordan,10640708,0.137%,10.64m,Jordan
+87,Dominican Republic,10358320,0.133%,10.36m,Dominican Republic
+88,Sweden,10333456,0.133%,10.33m,Sweden
+89,Portugal,10276617,0.132%,10.28m,Portugal
+90,Azerbaijan,10067108,0.130%,10.07m,Azerbaijan
+91,United Arab Emirates,9890400,0.127%,9.89m,United Arab Emirates
+92,Hungary,9772756,0.126%,9.77m,Hungary
+93,Belarus,9413446,0.121%,9.41m,Belarus
+94,Israel,9174600,0.118%,9.17m,Israel
+95,Honduras,9158345,0.118%,9.16m,Honduras
+96,Tajikistan,9127000,0.117%,9.13m,Tajikistan
+97,Papua New Guinea,8935000,0.115%,8.94m,Papua New Guinea
+98,Austria,8902600,0.115%,8.9m,Austria
+99,Switzerland,8586550,0.110%,8.59m,Switzerland
+100,Sierra Leone,7901454,0.102%,7.9m,Sierra Leone
+101,Togo,7538000,0.0970%,7.54m,Togo
+–,Hong Kong (China),7500700,0.0965%,7.5m,Hong Kong (China)
+102,Paraguay,7152703,0.0920%,7.15m,Paraguay
+103,Laos,7123205,0.0916%,7.12m,Laos
+104,Bulgaria,7000039,0.0901%,7m,Bulgaria
+105,Serbia,6963764,0.0896%,6.96m,Serbia
+106,Libya,6871287,0.0884%,6.87m,Libya
+107,Lebanon,6825442,0.0878%,6.83m,Lebanon
+108,Kyrgyzstan,6523500,0.0839%,6.52m,Kyrgyzstan
+109,El Salvador,6486201,0.0834%,6.49m,El Salvador
+110,Nicaragua,6460411,0.0831%,6.46m,Nicaragua
+111,Turkmenistan,6031187,0.0776%,6.03m,Turkmenistan
+112,Denmark,5822763,0.0749%,5.82m,Denmark
+113,Singapore,5703600,0.0734%,5.7m,Singapore
+114,Finland,5527573,0.0711%,5.53m,Finland
+115,Congo,5518092,0.0710%,5.52m,Congo
+116,Central African Republic,5496011,0.0707%,5.5m,Central African Republic
+117,Slovakia,5456362,0.0702%,5.46m,Slovakia
+118,Norway,5367580,0.0691%,5.37m,Norway
+119,Costa Rica,5058007,0.0651%,5.06m,Costa Rica
+120,Palestine,4976684,0.0640%,4.98m,Palestine
+121,New Zealand,4971963,0.0640%,4.97m,New Zealand
+122,Ireland,4921500,0.0633%,4.92m,Ireland
+123,Oman,4664790,0.0600%,4.66m,Oman
+124,Liberia,4475353,0.0576%,4.48m,Liberia
+125,Kuwait,4420110,0.0569%,4.42m,Kuwait
+126,Panama,4218808,0.0543%,4.22m,Panama
+127,Mauritania,4077347,0.0525%,4.08m,Mauritania
+128,Croatia,4076246,0.0524%,4.08m,Croatia
+129,Georgia,3723464,0.0479%,3.72m,Georgia
+130,Uruguay,3518552,0.0453%,3.52m,Uruguay
+131,Eritrea,3497117,0.0450%,3.5m,Eritrea
+132,Mongolia,3308624,0.0426%,3.31m,Mongolia
+133,Bosnia and Herzegovina,3301000,0.0425%,3.3m,Bosnia and Herzegovina
+–,Puerto Rico (US),3193694,0.0411%,3.19m,Puerto Rico (US)
+134,Armenia,2957500,0.0380%,2.96m,Armenia
+135,Albania,2862427,0.0368%,2.86m,Albania
+136,Lithuania,2793471,0.0359%,2.79m,Lithuania
+137,Qatar,2747282,0.0353%,2.75m,Qatar
+138,Jamaica,2726667,0.0351%,2.73m,Jamaica
+139,Moldova,2681735,0.0345%,2.68m,Moldova
+140,Namibia,2458936,0.0316%,2.46m,Namibia
+141,Gambia,2347706,0.0302%,2.35m,Gambia
+142,Botswana,2338851,0.0301%,2.34m,Botswana
+143,Gabon,2172579,0.0279%,2.17m,Gabon
+144,Slovenia,2094060,0.0269%,2.09m,Slovenia
+145,North Macedonia,2077132,0.0267%,2.08m,North Macedonia
+146,Lesotho,2007201,0.0258%,2.01m,Lesotho
+147,Latvia,1906800,0.0245%,1.91m,Latvia
+–,Kosovo,1795666,0.0231%,1.8m,Kosovo
+148,Guinea-Bissau,1604528,0.0206%,1.6m,Guinea-Bissau
+149,Bahrain,1543300,0.0199%,1.54m,Bahrain
+150,East Timor,1387149,0.0178%,1.39m,East Timor
+151,Trinidad and Tobago,1363985,0.0175%,1.36m,Trinidad and Tobago
+152,Equatorial Guinea,1358276,0.0175%,1.36m,Equatorial Guinea
+153,Estonia,1328360,0.0171%,1.33m,Estonia
+154,Mauritius,1265985,0.0163%,1.27m,Mauritius
+155,Eswatini,1093238,0.0141%,1.09m,Eswatini
+156,Djibouti,1078373,0.0139%,1.08m,Djibouti
+157,Fiji,884887,0.0114%,0.88m,Fiji
+158,Cyprus,875900,0.0113%,0.88m,Cyprus
+159,Comoros,873724,0.0112%,0.87m,Comoros
+160,Guyana,782766,0.0101%,0.78m,Guyana
+161,Bhutan,741672,0.00954%,0.74m,Bhutan
+162,Solomon Islands,680806,0.00876%,0.68m,Solomon Islands
+–,Macau (China),679600,0.00874%,0.68m,Macau (China)
+163,Montenegro,622359,0.00801%,0.62m,Montenegro
+164,Luxembourg,613894,0.00790%,0.61m,Luxembourg
+–,Western Sahara,582463,0.00749%,0.58m,Western Sahara
+165,Suriname,581372,0.00748%,0.58m,Suriname
+166,Cape Verde,550483,0.00708%,0.55m,Cape Verde
+167,Malta,493559,0.00635%,0.49m,Malta
+–,Transnistria,469000,0.00603%,0.47m,Transnistria
+168,Brunei,442400,0.00569%,0.44m,Brunei
+169,Belize,408487,0.00526%,0.41m,Belize
+170,Bahamas,385340,0.00496%,0.39m,Bahamas
+171,Maldives,374775,0.00482%,0.37m,Maldives
+172,Iceland,364260,0.00469%,0.36m,Iceland
+—,Northern Cyprus,351965,0.00453%,0.35m,Northern Cyprus
+173,Vanuatu,304500,0.00392%,0.3m,Vanuatu
+174,Barbados,287025,0.00369%,0.29m,Barbados
+–,New Caledonia (France),282200,0.00363%,0.28m,New Caledonia (France)
+–,French Polynesia (France),275918,0.00355%,0.28m,French Polynesia (France)
+–,Abkhazia,244832,0.00315%,0.24m,Abkhazia
+175,São Tomé and Príncipe,201784,0.00260%,0.2m,São Tomé and Príncipe
+176,Samoa,200874,0.00258%,0.2m,Samoa
+177,Saint Lucia,178696,0.00230%,0.18m,Saint Lucia
+–,Guam (US),172400,0.00222%,0.17m,Guam (US)
+–,Curaçao (Netherlands),158665,0.00204%,0.16m,Curaçao (Netherlands)
+–,Artsakh,148000,0.00190%,0.15m,Artsakh
+178,Kiribati,120100,0.00155%,0.12m,Kiribati
+–,Aruba (Netherlands),112309,0.00144%,0.11m,Aruba (Netherlands)
+179,Grenada,112003,0.00144%,0.11m,Grenada
+180,Saint Vincent and the Grenadines,110608,0.00142%,0.11m,Saint Vincent and the Grenadines
+–,Jersey (UK),106800,0.00137%,0.11m,Jersey (UK)
+–,U.S. Virgin Islands (US),104578,0.00135%,0.1m,U.S. Virgin Islands (US)
+181,F.S. Micronesia,104468,0.00134%,0.1m,F.S. Micronesia
+182,Tonga,100651,0.00129%,0.1m,Tonga
+183,Seychelles,97625,0.00126%,0.1m,Seychelles
+184,Antigua and Barbuda,96453,0.00124%,0.1m,Antigua and Barbuda
+–,Isle of Man (UK),83314,0.00107%,0.08m,Isle of Man (UK)
+185,Andorra,77543,0.000998%,0.08m,Andorra
+186,Dominica,71808,0.000924%,0.07m,Dominica
+–,Cayman Islands (UK),65813,0.000847%,0.07m,Cayman Islands (UK)
+–,Bermuda (UK),64027,0.000824%,0.06m,Bermuda (UK)
+–,Guernsey (UK),62792,0.000808%,0.06m,Guernsey (UK)
+–,American Samoa (US),56700,0.000729%,0.06m,American Samoa (US)
+–,Greenland (Denmark),56081,0.000721%,0.06m,Greenland (Denmark)
+–,Northern Mariana Islands (US),56200,0.000723%,0.06m,Northern Mariana Islands (US)
+187,Marshall Islands,55500,0.000714%,0.06m,Marshall Islands
+–,South Ossetia,53532,0.000689%,0.05m,South Ossetia
+188,Saint Kitts and Nevis,52823,0.000680%,0.05m,Saint Kitts and Nevis
+–,Faroe Islands (Denmark),52124,0.000671%,0.05m,Faroe Islands (Denmark)
+–,Turks and Caicos Islands (UK),41369,0.000532%,0.04m,Turks and Caicos Islands (UK)
+–,Sint Maarten (Netherlands),40614,0.000522%,0.04m,Sint Maarten (Netherlands)
+189,Liechtenstein,38749,0.000498%,0.04m,Liechtenstein
+190,Monaco,38300,0.000493%,0.04m,Monaco
+–,Saint Martin (France),35746,0.000460%,0.04m,Saint Martin (France)
+–,Gibraltar (UK),33701,0.000434%,0.03m,Gibraltar (UK)
+191,San Marino,33574,0.000432%,0.03m,San Marino
+–,British Virgin Islands (UK),30030,0.000386%,0.03m,British Virgin Islands (UK)
+–,Åland Islands (Finland),29885,0.000384%,0.03m,Åland Islands (Finland)
+192,Palau,17900,0.000230%,0.02m,Palau
+–,Cook Islands (NZ),15200,0.000196%,0.02m,Cook Islands (NZ)
+–,Anguilla (UK),14869,0.000191%,0.01m,Anguilla (UK)
+–,Wallis and Futuna (France),11700,0.000151%,0.01m,Wallis and Futuna (France)
+193,Nauru,11000,0.000142%,0.01m,Nauru
+194,Tuvalu,10200,0.000131%,0.01m,Tuvalu
+–,Saint Barthélemy (France),9793,0.000126%,0.01m,Saint Barthélemy (France)
+–,Saint Pierre and Miquelon (France),6008,0.0000773%,0.01m,Saint Pierre and Miquelon (France)
+–,"Saint Helena, Ascensionand Tristan da Cunha (UK)",5633,0.0000725%,0.01m,"Saint Helena, Ascensionand Tristan da Cunha (UK)"
+–,Montserrat (UK),4989,0.0000642%,0m,Montserrat (UK)
+–,Falkland Islands (UK),3198,0.0000411%,0m,Falkland Islands (UK)
+–,Christmas Island (Australia),1928,0.0000248%,0m,Christmas Island (Australia)
+–,Norfolk Island (Australia),1756,0.0000226%,0m,Norfolk Island (Australia)
+–,Niue (NZ),1520,0.0000196%,0m,Niue (NZ)
+–,Tokelau (NZ),1400,0.0000180%,0m,Tokelau (NZ)
+195,Vatican City,799,0.0000103%,0m,Vatican City
+–,Cocos (Keeling) Islands (Australia),538,0.00000692%,0m,Cocos (Keeling) Islands (Australia)
+–,Pitcairn Islands (UK),50,0.000000643%,0m,Pitcairn Islands (UK)
+,World,7773225000,100%,7773.23m,World
